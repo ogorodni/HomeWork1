@@ -1,0 +1,7 @@
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
